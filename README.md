@@ -1,2 +1,10 @@
-# Nexus-Web-Solutions
-Our Services: 🌐 Website Development 🎨 Custom Web Design &amp; Branding 🛠️ Website Maintenance &amp; Support 📈 SEO Optimization &amp; AnalyticsOur
+I build fast, SEO-optimized websites using modern technologies:
+
+🌐 Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+⚡ Backend: Node.js, Express, MongoDB when needed
+
+Perfect for:
+• Business websites that rank well on Google
+• Professional portfolios and service pages
+• Fast, mobile-friendly designs
+• SEO-optimized technical foundation
